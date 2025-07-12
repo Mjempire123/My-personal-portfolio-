@@ -1,4 +1,4 @@
-# My-personal-portfolio-<!DOCTYPE html>
+# my-personal-portfolio-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
